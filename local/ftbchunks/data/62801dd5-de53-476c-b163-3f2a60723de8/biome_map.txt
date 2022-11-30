@@ -1,0 +1,6 @@
+#010 minecraft:forest
+#498 minecraft:lush_caves
+#653 minecraft:nether_wastes
+#3DC minecraft:plains
+#400 minecraft:the_end
+#495 minecraft:the_void

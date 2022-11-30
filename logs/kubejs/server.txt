@@ -1,0 +1,96 @@
+[00:01:09] [INFO ] Loaded script server_scripts:_core/create/crushing.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/create/milling.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/create/mixing.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/create/splashing.js in 0.002 s
+[00:01:09] [INFO ] Loaded script server_scripts:unify.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/inworldevent/events/lootbee.js in 0.002 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/inworldevent/events/stick.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/inworldevent/events/tea.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/inworldevent/events/wanderingtrader.js in 0.006 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/ftb/entity.death.js in 0.002 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/inworldevent/init.js in 0.002 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/ars.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/emojiful.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/minecraft.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/summoningrituals.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:recipes.remove.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/recipes.shaped.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/recipes.shapeless.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:easter_eggs.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/ae2.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/avaritia.js in 0.004 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/botania.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/botanypots.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/buddingcrystals.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/chickens.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/compactmachines.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/create.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/extendedexchange.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/farmersdelight.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/fluxnetworks.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/ftbdripper.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/funcstorage.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/gag.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/immersiveengineering.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/industrialforegoing.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/mekanism.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/powah.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/projecte.js in 0.002 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/refinedstorage.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/soulshards.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/tconstruct.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/tesseract.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:mods/thermal.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:settings.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:unify/create.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:unify/createaddition.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:unify/Immersiveengineering.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:unify/mekanism.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:unify/minecraft.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:unify/thermal.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:unify/tinkers.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/anti_block_placement.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/bed.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/block.break.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/boss.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/cobblegen.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/entity.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/ftb/sbtools/recipes.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/harderdungeons.js in 0.004 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/inworldevent/utils.js in 0.001 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/loottable.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/nochancecubehere.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/tags.js in 0.0 s
+[00:01:09] [INFO ] Loaded script server_scripts:_core/train_quest.js in 0.001 s
+[00:01:09] [INFO ] Loaded 64/64 KubeJS server scripts in 0.066 s
+[00:01:09] [INFO ] Scripts loaded
+[00:01:09] [INFO ] Scanning recipes...
+[00:01:20] [INFO ] [fluids] Found 184 tags, added 1 objects, removed 0 objects
+[00:01:20] [INFO ] [fluids] Found 184 tags, added 1 objects, removed 0 objects
+[00:01:23] [INFO ] [blocks] Found 993 tags, added 91 objects, removed 1 objects
+[00:01:23] [INFO ] [blocks] Found 993 tags, added 143 objects, removed 1 objects
+[00:01:23] [INFO ] [entity_types] Found 56 tags, added 5 objects, removed 0 objects
+[00:01:23] [INFO ] [block_entity_type] Found 7 tags, added 131 objects, removed 0 objects
+[00:01:24] [INFO ] [items] Found 1586 tags, added 107 objects, removed 1 objects
+[00:01:24] [INFO ] [items] Found 1586 tags, added 107 objects, removed 1 objects
+[00:01:42] [INFO ] Found 16316 recipes and 0 failed recipes in 618.0 ms
+[00:01:46] [INFO ] Posted recipe events in 3.787 s
+[00:01:46] [WARN ] Error parsing recipe bloodmagic:arc/reversion/netherite_ingot[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:ingots/netherite"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/reverter"},"addedoutput":[{"type":{"item":"minecraft:gold_ingot","count":4,"chance":0.0},"chance":0.0}],"output":{"item":"minecraft:netherite_scrap","count":4},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
+[00:01:46] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_iron[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/iron"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"mekanism:dust_iron","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"mekanism:dust_iron","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
+[00:01:46] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_copper[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/copper"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"thermal:copper_dust","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"thermal:copper_dust","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
+[00:01:46] [WARN ] Error parsing recipe extendedexchange:alchemy/lava_bucket_to_obsidian[extendedexchange:alchemy_table]: {"type":"extendedexchange:alchemy_table","input":[{"item":"chickens:liquid_egg","type":"forge:nbt","nbt":"{id:\"minecraft:lava\"}"},{"item":"minecraft:lava_bucket"}],"output":{"item":"minecraft:obsidian"},"emc_override":0,"crafting_time":200}: java.lang.ClassCastException: class com.google.gson.JsonArray cannot be cast to class com.google.gson.JsonObject (com.google.gson.JsonArray and com.google.gson.JsonObject are in module com.google.gson@2.8.9 of loader 'MC-BOOTSTRAP' @2f7298b)
+[00:01:46] [WARN ] Error parsing recipe bloodmagic:arc/dustsfrom_raw_gold[bloodmagic:arc]: {"type":"bloodmagic:arc","input":{"tag":"forge:raw_materials/gold"},"inputsize":1,"tool":{"tag":"bloodmagic:arc/cuttingfluid"},"addedoutput":[{"type":{"item":"mekanism:dust_gold","count":1,"chance":0.17},"chance":0.17}],"output":{"item":"mekanism:dust_gold","count":1},"consumeingredient":false,"mainoutputchance":0.0}: com.google.gson.JsonSyntaxException: Missing mainchance, expected to find a Float
+[00:01:46] [INFO ] Modified & removed recipes in 202.7 ms
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_bb5v6vwsvvcaahdldbhmautbg[tconstruct:entity_melting]: {"entity":{"type":"chickens:lead_chicken"},"result":{"fluid":"tconstruct:molten_lead","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:lead_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_8g7qafgyqmyt8hdhembyhi5s1[tconstruct:entity_melting]: {"entity":{"type":"chickens:zinc_chicken"},"result":{"fluid":"tconstruct:molten_zinc","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:zinc_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_dv68hqc4s7h9oomefmx1qnfts[tconstruct:entity_melting]: {"entity":{"type":"chickens:nickel_chicken"},"result":{"fluid":"tconstruct:molten_nickel","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:nickel_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_1zjw3ub4f24beosrlkcree7it[tconstruct:entity_melting]: {"entity":{"type":"chickens:uranium_chicken"},"result":{"fluid":"tconstruct:molten_uranium","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:uranium_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_2786n27eq0csfesx5aituvs7h[tconstruct:entity_melting]: {"entity":{"type":"chickens:netherite_chicken"},"result":{"fluid":"tconstruct:molten_netherite","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:netherite_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_qko9d5qu9yzfr96g6l5eal86[tconstruct:entity_melting]: {"entity":{"type":"chickens:copper_chicken"},"result":{"fluid":"tconstruct:molten_copper","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:copper_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_6up1t7w6zq9p9gab8ycxumrf9[tconstruct:entity_melting]: {"entity":{"type":"chickens:tin_chicken"},"result":{"fluid":"tconstruct:molten_tin","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:tin_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_2wndndlmfuwtyt6xj6t1x6sn2[tconstruct:entity_melting]: {"entity":{"type":"chickens:aluminum_chicken"},"result":{"fluid":"tconstruct:molten_aluminum","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:aluminum_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_3xin94vy2lw0am4tqmy206uzu[tconstruct:entity_melting]: {"entity":{"type":"chickens:osmium_chicken"},"result":{"fluid":"tconstruct:molten_osmium","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:osmium_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_cjqduyi5vr78t6zmsyb3ryf7f[tconstruct:entity_melting]: {"entity":{"type":"chickens:cobalt_chicken"},"result":{"fluid":"tconstruct:molten_cobalt","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:cobalt_chicken
+[00:01:46] [WARN ] Error creating recipe tconstruct:kjs_dfjfzkm8tymujygqv27s98ru4[tconstruct:entity_melting]: {"entity":{"type":"chickens:silver_chicken"},"result":{"fluid":"tconstruct:molten_silver","amount":10},"damage":2,"type":"tconstruct:entity_melting"}: com.google.gson.JsonSyntaxException: Invalid entity type chickens:silver_chicken
+[00:01:46] [INFO ] Added recipes in 45.37 ms
+[00:01:46] [INFO ] Added 1160 recipes, removed 1043 recipes, modified 4291 recipes, with 16 failed recipes and 0 fall-backed recipes
