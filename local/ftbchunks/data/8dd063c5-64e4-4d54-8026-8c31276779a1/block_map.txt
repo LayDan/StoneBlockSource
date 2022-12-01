@@ -1,4 +1,0 @@
-#52B53D minecraft:air
-#FA75A8 minecraft:andesite
-#058353 minecraft:cobblestone
-#DC3458 minecraft:stone
